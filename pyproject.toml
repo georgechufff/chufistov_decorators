@@ -14,6 +14,10 @@ classifiers = [
 license = "MIT"
 license-files = ["LICEN[CS]E*"]
 
+[project.urls]
+Homepage = https://github.com/georgechufff/chufistov_decorators
+Issues = "https://github.com/georgechufff/chufistov_decorators/issues"
+
 [build-system]
 requires = ["uv_build >= 0.11.7, <0.12.0"]
 build-backend = "uv_build"
