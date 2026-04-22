@@ -15,7 +15,7 @@ license = "MIT"
 license-files = ["LICEN[CS]E*"]
 
 [project.urls]
-Homepage = https://github.com/georgechufff/chufistov_decorators
+Homepage = "https://github.com/georgechufff/chufistov_decorators"
 Issues = "https://github.com/georgechufff/chufistov_decorators/issues"
 
 [build-system]
